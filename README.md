@@ -47,3 +47,7 @@ python stacking_analysis.py
 ### Plotting
 
 python plot_stacking.py
+
+## Acknowledgements
+
+Some implementation details and code refactoring were developed with the assistance of large language models (LLMs). All analysis strategies, validation, and scientific interpretation were designed and verified by the authors.
